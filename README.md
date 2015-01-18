@@ -38,5 +38,5 @@ sample snippet is as follows:
          [index idxByTime(event_timestamp)];
          [index cidxXXX(vaue_i16,value_string)];
       };
-   }
+    }
 
